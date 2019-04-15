@@ -6,7 +6,7 @@ import org.apache.zookeeper.ZooKeeper;
 
 public abstract class AbsCommon {
 	
-	private static final String ZK_SERVER_BROKERS = "120.79.135.213:2180,120.79.135.213:2181,120.79.135.213:2182";;
+	private static final String ZK_SERVER_BROKERS = "120.79.135.xxx:2180,120.79.xxx.213:2181,120.79.135.xxx:2182";;
 	
 	private static final int TIMEOUT = 2000;
 	
